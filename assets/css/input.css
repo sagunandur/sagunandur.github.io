@@ -2,3 +2,9 @@
 
 
 @import "flowbite/src/themes/default";
+
+:root {
+  --primary-color: #e0f5c1;
+  --secondary-color: #beaf5e;
+  --dark-bg: #1e293b;
+}
